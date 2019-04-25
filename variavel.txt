@@ -16,4 +16,4 @@ Não podemos utilizar caracteres especiais
 Não podemos utilizar palavras reservadas
 
 O js (javascript) é Case-sensitive 
-let curso = 2  é diferente de  let Curso = 2
+(let curso = 2) != (let Curso = 2)
