@@ -1,0 +1,18 @@
+O que são variáveis?
+Pode mudar de valor.
+
+4 tipos mais utilizados de variáveis:
+INT números inteiros (positivos e negativos)
+FLOAT números decimais ou fração (não é virgula, é ponto)
+STRING texto
+BOOLEAN True or False  // 0 ou 1
+
+Regras para criação de variável:
+Não podemos iniciar com números
+Não podemos utilizar caracteres especiais
+Não podemos utilizar palavras reservadas
+
+O js (javascript) é Case-sensitive 
+let curso = 2  é diferente de  let Curso = 2
+
+
