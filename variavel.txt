@@ -14,6 +14,7 @@ Regras para criação de variável:
 Não podemos iniciar com números
 Não podemos utilizar caracteres especiais
 Não podemos utilizar palavras reservadas
+Nunca colocar acentuação ou acentos ou caracteres especiais
 
 O js (javascript) é Case-sensitive 
 (let curso = 2) != (let Curso = 2)
