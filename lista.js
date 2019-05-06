@@ -19,6 +19,7 @@ item = listaValor.findIndex(f => f == '2');
 console.log(item);
 
 // Filtrar - retorna o ARRAY com o valor procurado
+// - - - - - - - - - - - - - - - - - - - - - - - -
 // Retorna o ARRAY com os dados que interessa
 let novaLista = listaValor.filter(i => i == 'Patrícia');
 console.log(novaLista);
