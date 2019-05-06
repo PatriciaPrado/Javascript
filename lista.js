@@ -53,7 +53,7 @@ console.log(listaValor);
 listaValor = listaValor.filter(f => f < 3 || f > 5);
 console.log(listaValor);
 
-// "Zerando a lista..."
+// "Voltando para a lista original..."
 listaValor = [0,10,20,3,1,30, 'Patrícia',40,5,60,74,3,8,9,2];
 console.log(listaValor);
 
