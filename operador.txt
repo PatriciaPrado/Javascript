@@ -7,7 +7,7 @@ Idêntico (===) -> verifica se os valores são iguais e do mesmo tipo
 
 Diferente (!=) -> verifica se os valores são diferentes
 
-Não idêntico (!==) ->  verifica se os valores são diferentes e os tipos também
+Não idêntico (!==) ->  verifica se os valores são diferentes ou os tipos também 
 
 Menor (<) ->  verifica se o valor da esquerda é menor do que o valor da direita
 
