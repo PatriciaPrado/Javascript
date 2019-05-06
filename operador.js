@@ -81,6 +81,3 @@ if(!idade == 24 && nome == 'Breno'){
 if(!(idade == 24 && nome == 'Breno')){
     console.log('!(== && ==) -> (Breno)');
 }
-
-
-

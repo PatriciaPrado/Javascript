@@ -1,0 +1,13 @@
+Adição (+)
+
+Subtração (-)
+
+Multiplicação (*)
+
+Divisão (/)
+
+Módulo [Mod / Resto] (%)
+
+Incremento (++)
+
+Decremento (--)
