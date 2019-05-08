@@ -1,55 +1,54 @@
 const nome = 'Vinicius';
 const idade = 24;
 
-if(nome == 'Vinicius'){
+if (nome == 'Vinicius') {
     console.log('Entrou no if');
 } else {
     console.log('Entrou no else');
 }
 
-if(nome == 'Vinícius'){
+if (nome == 'Vinícius') {
     console.log('Entrou no if');
 } else {
     console.log('Entrou no else');
 }
 
-if(nome == 'Patrícia'){
+if (nome == 'Patrícia') {
     console.log('Entrou no if');
 } else {
     console.log('Entrou no else');
 }
 
-if(nome == 'Patrícia'){
+if (nome == 'Patrícia') {
     console.log('Entrou no if');
-} else if(nome == 'Vinicius') {
+} else if (nome == 'Vinicius') {
     console.log('Entrou no else if');
 } else {
     console.log('Entrou no else');
 }
 
-if(nome == 'Patrícia'){
+if (nome == 'Patrícia') {
     console.log('Entrou no if');
-} else if(nome == 'Vinicius') {
+} else if (nome == 'Vinicius') {
     console.log('Entrou no else if');
-} else if(nome === 'Vinicius') {
+} else if (nome === 'Vinicius') {
     console.log('Entrou no else if');
 } else {
     console.log('Entrou no else');
 }
 
-if(nome == 'Vinicius'){
+if (nome == 'Vinicius') {
     console.log('Entrou no if');
-} else if(nome == 'Patrícia') {
+} else if (nome == 'Patrícia') {
     console.log('Entrou no else if');
 } else {
     console.log('Entrou no else');
 }
 
-if(nome == 'Patrícia'){
+if (nome == 'Patrícia') {
     console.log('Entrou no if');
-} else if(nome == 'Rafael') {
+} else if (nome == 'Rafael') {
     console.log('Entrou no else if');
 } else {
     console.log('Entrou no else');
 }
-
