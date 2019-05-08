@@ -1,4 +1,5 @@
 const nome = 'Vinicius';
+
 const idade = 24;
 
 if (nome == 'Vinicius') {
@@ -51,4 +52,3 @@ if (nome == 'Patrícia') {
     console.log('Entrou no else if');
 } else {
     console.log('Entrou no else');
-}
