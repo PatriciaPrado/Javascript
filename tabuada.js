@@ -8,7 +8,7 @@ for(let x = 1; x <= 10; x++)
 {
     for(let valor1 = 1; valor1 <= 10; valor1++)
     {
-        let tab = x * valor1
+        let tab = x * valor1;
         console.log(`${x} * ${valor1} = ${tab}`);
     }
 }
