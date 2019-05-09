@@ -36,8 +36,13 @@ class Pessoa {
 
     // método => característica = ESTÁTICO que é o retorno é void
     // não precisa instanciar, mas se não estiver estanciado tem que setar
-    static exemplo(){
-        console.log('Este é um método estático')
+    static exemplo(sexo){
+        console.log(sexo)
+        if ( sexo == 'M'){
+            console.log(`${this.nome} é do sexo masculino.`)
+        } else {
+            console.log(`${this.nome} é do sexo feminino.`)
+        }
     }
 
     static verificaNome(nome){
@@ -67,11 +72,13 @@ p1.compararSexo()
 
 // Este é um método estático, não precisa instanciar o objeto
 // classe.método
-Pessoa.exemplo(vinicius.sexo);
+Pessoa.exemplo();
+
 
 if(!Pessoa.verificaNome(vinicius.nome)){
     vinicius.nome = vinicius.nome.toUpperCase();
 }
+
 
 if (vinicius.maiorIdade()) {
     console.log(`${vinicius.nome} é maior de idade.`)
@@ -79,4 +86,4 @@ if (vinicius.maiorIdade()) {
     console.log(`${vinicius.nome} é menor de idade.`)
 }
 
-console.info(Pessoa);
+// console.info(Pessoa);
