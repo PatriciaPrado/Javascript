@@ -1,5 +1,5 @@
 // Tipo ARRAY vazio
-let listaVazia = [];
+let listaVazia = [ ];
 
 // Tipo ARRAY Valores definidos (com conteúdo)
 let listaValor = [0,1,2,3, 'Patrícia'];

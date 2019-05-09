@@ -1,4 +1,5 @@
 // case - pode ser usado ao invés do IF ... IF ELSE ... IF ELSE ... IF ELSE ... ELSE
+// Pode ter vários
 
 const opcao = 1;
 

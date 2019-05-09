@@ -1,5 +1,5 @@
-    V A R I Á V E I S
-    - - - - - - - - - 
+V A R I Á V E I S
+- - - - - - - - - 
 
 O que são variáveis?
 Pode mudar de valor.

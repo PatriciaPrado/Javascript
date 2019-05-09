@@ -1,3 +1,6 @@
+Operadores Aritméticos
+- - - - - - - - - - - 
+
 Adição (+)
 
 Subtração (-)

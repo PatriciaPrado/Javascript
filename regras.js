@@ -1,7 +1,7 @@
 // String
 let nome = 'Patrícia';
 
-// Int
+// Int (inteiro)
 let idade = 21;
 
 // Float
@@ -23,5 +23,3 @@ console.log('Meu nome é: '+ nome + '!');
 
 // Interpolação - maneira nova
 console.log(`Meu nome é: ${nome}!`);
-
-

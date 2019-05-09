@@ -86,4 +86,4 @@ if (vinicius.maiorIdade()) {
     console.log(`${vinicius.nome} é menor de idade.`)
 }
 
-// console.info(Pessoa);
+// console.info(Pessoa); 

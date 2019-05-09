@@ -1,4 +1,5 @@
 const nome = 'Vinicius';
+
 const idade = 24;
 
 if (nome == 'Vinicius') {

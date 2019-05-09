@@ -24,7 +24,6 @@ if(contador == 7)
 } 
 
 
-
 // do while - primeiro executa e depois verifica a condição
 // Entra no mínimo uma vez
 
