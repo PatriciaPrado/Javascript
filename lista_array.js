@@ -61,4 +61,3 @@ console.log(listaValor);
 // Remove determinada posição na Fila - passa o valor, não a posição - tem que usar um laço de repetição
 listaValor = listaValor.filter(f => f < 3 || f > 5);
 console.log(listaValor);
-
